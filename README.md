@@ -1,5 +1,5 @@
-<h1 align="center">Hey Folks 😎, Kashif This Side From India</h1>
-<h3 align="center">An Intense Flutter & iOS Developer From India.</h3>
+<h1 align="center">Hey Folks 😎, Sahil This Side From India</h1>
+<h3 align="center">An Intense Flutter & Android Developer From India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heykashif&label=Profile%20views&color=0e75b6&style=flat" alt="heykashif" /> </p>
 
@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **C, Python, Dart, Flutter, Farebase**
 
-- 📫 How to reach me **Kashifmohd269@gmail.com**
+- 📫 How to reach me **Sahilsaxenarbs@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mohdkashif38/](https://www.linkedin.com/in/mohdkashif38/)
 
